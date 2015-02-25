@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA004: Intermediate Algebra"
+course_description: "This course is a continuation of MA001: Beginning Algebra, and will focus on compound inequalities, systems of linear equations, radicals, rational exponents, quadratic equations and techniques used to solve these equations, and finally, general functions and graphs with an emphasis on the exponential and logarithmic functions."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Solving Quadratic Equations and Their Applications and
 Simplifying Compound Fractions** <span id="3"></span> 
 *In this unit, you will study complex numbers and the arithmetic of
