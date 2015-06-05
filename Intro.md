@@ -147,4 +147,10 @@ prerequisites for this course. It may be helpful to review [MA001:
 Beginning Algebra](http://www.saylor.org/courses/ma001/) before you
 begin this course.  
     
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/ma004/Unit01/)
+- [Unit 2](https://legacy.saylor.org/ma004/Unit02/)
+- [Unit 3](https://legacy.saylor.org/ma004/Unit03/)
+- [Unit 4](https://legacy.saylor.org/ma004/Unit04/)
+- [Unit 5](https://legacy.saylor.org/ma004/Unit05/)
