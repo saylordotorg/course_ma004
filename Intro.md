@@ -164,3 +164,4 @@ begin this course.
 - [Unit 3](https://legacy.saylor.org/ma004/Unit03/)
 - [Unit 4](https://legacy.saylor.org/ma004/Unit04/)
 - [Unit 5](https://legacy.saylor.org/ma004/Unit05/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/MA/MA004/MA004-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/MA/MA004/MA004-FinalExam-Answers.html)
