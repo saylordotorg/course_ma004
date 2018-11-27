@@ -58,9 +58,9 @@ Upon successful completion of this unit, you will be able to:
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 8, Section 8.1: Square
-    Roots”](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+    Roots”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
     (PDF) and [“Chapter 8, Section 8.2: Higher
-    Roots”](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+    Roots”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
     (PDF)  
         
      Instructions: Read Sections 8.1 and 8.2 in Chapter 8 of your
@@ -232,7 +232,7 @@ assigned in Subunit 2.1.*
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 8, Section 8.3: Adding
-    Radicals”](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+    Radicals”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
         
      Instructions: Read Section 8.3 in Chapter 8 of your textbook, pages
     295–297, to learn about adding two radicals together. Essentially,
@@ -321,7 +321,7 @@ assigned in Subunit 2.2.*
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 8, Section 8.4: Multiply and Divide
-    Radicals”](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+    Radicals”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
     (PDF)  
         
      Instructions: Read Section 8.4, pages 298–302, in Chapter 8 of your
@@ -498,7 +498,7 @@ assigned in Subunit 2.3.*
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 8, Section 8.5: Rationalize
-    Denominators”](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+    Denominators”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
     (PDF)  
         
      Instructions: Read Section 8.5 in Chapter 8 of your textbook, pages
@@ -671,7 +671,7 @@ assigned in Subunit 2.4.*
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 8, Section 8.6: Rational
-    Exponents”](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+    Exponents”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
     (PDF)  
         
      Instructions: Read Section 8.6 in Chapter 8 of your textbook, pages
@@ -816,7 +816,7 @@ assigned in Subunit 2.5.*
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 8, Section 8.7: Radicals of Mixed
-    Index”](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+    Index”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
     (PDF)  
         
      Instructions: Read Section 8.7 in Chapter 8 of your textbook, pages

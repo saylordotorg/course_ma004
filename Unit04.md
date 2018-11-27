@@ -56,7 +56,7 @@ application to frames.*
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 9, Section 9.7: Application:
-    Rectangles”](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+    Rectangles”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
         
      Instructions: Please review Section 9.7 in Chapter 9 of your
     textbook, pages 357–363, to review applications of the quadratic
@@ -197,7 +197,7 @@ assigned in Subunit 4.1.*
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 7, Section 7.7: Solving Rational
-    Equations”](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+    Equations”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
         
      Instructions: Read Section 7.7 in Chapter 7 of your textbook, pages
     274–278, to learn techniques to solve rational equations. Rational
@@ -327,7 +327,7 @@ assigned in Subunit 4.2.*
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 9, Section 9.8: Application
-    Teamwork”](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+    Teamwork”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
     (PDF)  
         
      Instructions: Read Section 9.8 in Chapter 9 of your textbook, pages
@@ -460,7 +460,7 @@ assigned in Subunit 4.3.*
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 9, Section 9.9: Simultaneous
-    Products”](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+    Products”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
     (PDF)  
         
      Instructions: Read Section 9.9 in Chapter 9 of your textbook, pages
@@ -528,7 +528,7 @@ assigned in Subunit 4.3.*
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 9, Section 9.10: Application: Revenue and
-    Distance”](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+    Distance”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
     (PDF)  
         
      Instructions: Read Section 9.10 in Chapter 9 of your textbook,
