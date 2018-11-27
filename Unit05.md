@@ -67,7 +67,7 @@ Upon successful completion of this unit, you will be able to: 
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 10, Section 10.1: Function
-    Notation”](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+    Notation”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
         
      Instructions: Read Section 10.1 in Chapter 10 of your textbook,
     pages 386–392, to learn about functions and functional notation.
@@ -218,7 +218,7 @@ assigned in Subunit 5.1.*
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s Beginning Algebra and Intermediate Algebra, 2nd
     Edition: [“Chapter 10, Section 10.2: Operations on
-    Functions”](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+    Functions”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
         
      Instructions: Read Section 10.2 in Chapter 10 of your textbook,
     pages 393–400, to learn the algebra of functions. As in arithmetic,
@@ -338,7 +338,7 @@ assigned in Subunit 5.2.*
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 10, Section 10.3: Inverse
-    Functions”](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+    Functions”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
     (PDF)  
         
      Instructions: Read Section 10.3 in Chapter 10 of your textbook,
@@ -459,7 +459,7 @@ assigned in Subunit 5.3.*
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 9, Section 9.11: Graphs of
-    Quadratics”](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+    Quadratics”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
     (PDF)  
         
      Instructions: Read Section 9.11 in Chapter 9 of your textbook,
@@ -557,7 +557,7 @@ assigned in Subunit 5.4.*
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 10, Section 10.4: Exponential
-    Functions”](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+    Functions”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
     (PDF)  
         
      Instructions: Read Section 10.4 in Chapter 10 of your textbook,
@@ -653,7 +653,7 @@ assigned in Subunit 5.5.*
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 10, Section 10.6: Application: Compound
-    Interest”](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+    Interest”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
     (PDF)  
         
      Instructions: Read Section 10.6 in Chapter 10 of your textbook,
@@ -804,7 +804,7 @@ assigned in Subunit 5.6.*
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 10, Section 10.5: Logarithmic
-    Functions”](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+    Functions”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
     (PDF)  
         
      Instructions: Read Section 10.5 in Chapter 10 of your textbook,

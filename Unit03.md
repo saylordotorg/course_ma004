@@ -75,7 +75,7 @@ Upon successful completion of this unit, you will be able to:
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 8, Section 8.8: Complex
-    Numbers”](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+    Numbers”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
     (PDF)  
         
      Instructions: Read Section 8.8 in Chapter 8 of your textbook, pages
@@ -249,7 +249,7 @@ assigned in Subunit 3.1.*
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 9, Section 9.1: Solving with
-    Radicals”](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+    Radicals”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
         
      Instructions: Read Section 9.1 in Chapter 9 of your textbook, pages
     326–331, to learn about solving equations with radicals. When
@@ -491,7 +491,7 @@ assigned in Subunit 3.2.*
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 9, Section 9.2: Solving with
-    Exponents”](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+    Exponents”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
     (PDF)  
         
      Instructions: Read Section 9.2 in Chapter 9 of your textbook, pages
@@ -637,7 +637,7 @@ assigned in Subunit 3.3.*
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 9, Section 9.3: Complete the
-    Square”](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+    Square”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
     (PDF)  
         
      Instructions: Read section 9.3 in Chapter 9 of your textbook, pages
@@ -769,7 +769,7 @@ assigned in Subunit 3.4.*
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 9, Section 9.4: Quadratic
-    Formula”](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+    Formula”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
     (PDF)  
         
      Instructions: Read Section 9.4 in Chapter 9 of your textbook, pages
@@ -919,7 +919,7 @@ assigned in Subunit 3.5. *
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 9, Section 9.7: Application:
-    Rectangles”](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+    Rectangles”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
     (PDF)  
         
      Instructions: Read Section 9.7 in Chapter 9 of your textbook, pages
@@ -1094,7 +1094,7 @@ assigned in Subunit 3.6.*
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 7, Section 7.5: Complex
-    Fractions”](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+    Fractions”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
     (PDF)  
         
      Instructions: Read Section 7.5 in Chapter 7 of your textbook, pages
