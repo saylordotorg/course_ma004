@@ -100,7 +100,7 @@ following materials:
 -   Washington State Board for Community and Technical Colleges: Tyler
     Wallace’s *[Beginning Algebra and Intermediate Algebra,
     2<sup>nd</sup>
-    Edition](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)*
+    Edition](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)*
     (PDF);
 -   Big Bend Community College: Tyler Wallace’s *[Intermediate Algebra
     Lab
