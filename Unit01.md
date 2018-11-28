@@ -59,9 +59,9 @@ Upon successful completion of this unit, you will be able to:
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition:  [“Chapter 3, Section 3.1: Solve and Graph
-    Inequalities”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+    Inequalities”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
     (PDF) and [“Chapter 3, Section 3.2: Compound
-    Inequalities”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+    Inequalities”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
         
      Instructions: Read Sections 3.1 and 3.2 in Chapter 3 of this
     textbook, pages 118–127, to learn about solving and graphing
@@ -180,7 +180,7 @@ assigned in Subunit 1.1.*
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 3, Section 3.3: Absolute Value
-    Inequalities”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+    Inequalities”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
         
      Instructions: Read Section 3.3 in Chapter 3 of your textbook, pages
     128–132, to learn about solving absolute value inequalities. Notice
@@ -304,13 +304,13 @@ assigned in Subunit 1.2.*
     Edition:
 
     -   [“Chapter 4, Section 4.1:
-        Graphing”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+        Graphing”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
         (PDF)
     -   [“Chapter 4, Section 4.2:
-        Substitution”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+        Substitution”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
         (PDF)
     -   [“Chapter 4, Section 4.3:
-        Addition/Elimination”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+        Addition/Elimination”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
         (PDF)
 
     Instructions: Read Sections 4.1–4.3 in Chapter 4 of your textbook,
@@ -562,7 +562,7 @@ assigned in Subunit 1.3.*
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 4, Section 4.4: Three
-    Variables”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+    Variables”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
     (PDF)  
         
      Instructions: Read Section 4.4 in Chapter 4 of your textbook, pages
@@ -711,7 +711,7 @@ assigned in Subunit 1.4.*
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 4, Section 4.5: Application: Value
-    Problems”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+    Problems”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
     (PDF)  
         
      Instructions: Read Section 4.5 in Chapter 4 of your textbook, pages
@@ -909,7 +909,7 @@ id="1.5.6"></span> 
     Link: Washington State Board for Community and Technical Colleges:
     Tyler Wallace’s *Beginning Algebra and Intermediate Algebra*, 2nd
     Edition: [“Chapter 4, Section 4.6: Application: Mixture
-    Problems”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+    Problems”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
     (PDF)  
         
      Instructions: Read Section 4.6 in Chapter 4 of your textbook, pages
